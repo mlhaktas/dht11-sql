@@ -1,2 +1,2 @@
 # dht11-sql
-Temperature Record to MySQL
+Temperature and Humidity Record to MySQL
